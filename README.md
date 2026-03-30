@@ -7,12 +7,27 @@
 - Clodagh: JavaScript/AJAX and Framework/Deployment
 
 ## Team Structure
+
 ### Leadership Structure
+
+Shared leadership structure, we all have equal say in determining the direction of the project as a whole but the roles of the team will have main say over their particular section.
+
 ### Decision-making
+
+All decision-making will be by consensus
+
 ### Regular Meeting Time and Location
+
+Bailey Library Tuesday and Thursday 3pm.
+
 ### Communication
 
+Specific teams channel, mobile number in emergencies.
+
 ## Team Procedure
+
+We are able to meet without one team member present due to timetabling constrainsts. 
+
 ### Method for Setting Meeting Agenda
 ### Record Keeping Procedure
 ### Absence Procedure
